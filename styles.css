@@ -95,7 +95,7 @@ body {
   text-align: center;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
   .wrapper {
     height: 94.9rem;
     width: 37.5rem;
